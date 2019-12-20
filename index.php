@@ -1,1 +1,1 @@
-<php? include_once ("signup1.html");?>
+<?php include_once ("signup1.html");?>
